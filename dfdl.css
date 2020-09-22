@@ -1,0 +1,45 @@
+
+body{ 
+    background-image: url(diu1.jpg);
+   
+     background-repeat: no-repeat ;
+     
+   background-size: cover;
+     padding: 0;
+      margin: 0;
+      
+    }
+    hr{
+      border-bottom: 7px dashed rgb(118, 243, 118);
+    margin-top: -200px;
+    }
+    .walk{
+      width: 80px;
+      height: 600px;
+      background-image: url(run4n.png);
+      background-repeat: repeat-x;
+    
+      animation: walk 1s steps(5) infinite,
+      animate 8s linear infinite;
+      
+     }
+     @keyframes walk {
+       0%
+         {
+           background-position: 0
+         }
+         100%
+         {
+    background-position: 500px
+         }
+    
+     }
+     @keyframes animate{
+       0%
+       {
+    transform:translatex(-100) 
+       }
+       100%
+       {
+    transform: translatex(1500px);
+       }

@@ -1,0 +1,152 @@
+body{
+    font-family: 'Montserrat', sans-serif;  
+}
+      .color{ color: black;
+      
+    
+       
+      }
+      .color:hover{
+          color: rebeccapurple;
+      }
+      .bco{
+          background-color: royalblue;
+      }
+    .logo{
+      
+      height: 120px;
+    }
+     .navbar-light
+     { height: 20vh;
+         background-color: rgba(238, 205, 162, 0.466);
+     }
+     .container{
+         margin-bottom: 80px;
+     }
+     .c1{
+         height: 500px;
+        
+     }
+     .card-deck{
+         height: 50px;
+         padding-top: 200px;
+         padding-bottom: 100vh;
+     }
+     .bg{
+         height: 300px;
+         color:white;
+         background-image: url(footer.jpg);
+         background-repeat: no-repeat;
+         background-position: center;
+         background-size: cover;
+        
+     }
+     .card-col{
+         color: black;
+     }
+         
+     .container h3{
+        font-size: 20px;
+     }
+     .textn
+     {
+       padding-top: 20px;
+     }
+     
+     .text2{
+         padding-top: 30vh;
+        
+     }
+     .text3{
+       margin-bottom: 100px;
+
+     }
+     .pic2{
+         height: 600px;
+         width: 100%;
+
+     }
+     .card-group{
+         padding-top:35vh;
+     }
+     .plus{
+         padding-top: 30vh;
+         padding-left:8vh;
+     }
+     
+     .line{
+         display: block;
+         width: 600px;
+         height: 1px;
+         background-color: silver;
+        position: absolute;
+        right:55vh;
+     }
+     
+.adv{
+    padding-top: 20vh;
+    margin-bottom: 100px;
+}
+     
+     .pad{
+         text-align: center;
+     }
+    #rima{
+        height: 150px;
+        width: 500px;
+        
+    }
+   
+    .adv{
+        
+        padding-top: 5px;
+    }
+    .container2{
+        padding-top: 40vh;
+    }
+    .team{
+        padding-top: 20vh;
+    }
+    .ci{
+        height: 30vh;
+        width: 100%;
+        
+    }
+    .im-size{
+        width: 200px;
+        height: 200px;
+    }
+    .last-bg{
+        width: 100%;
+        height: 650px; 
+      background: url(code.gif);
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        overflow: hidden;
+    }
+    .last-c{
+        background-color: rgba(0, 0, 0, 0.473);
+        color: white;
+        
+        
+    }
+    .cal{
+        color: rgba(255, 255, 255, 0.795);
+        
+    }
+    .semi-img{
+        height: 150px;
+        width: 200px;
+    }
+    .footer-bg{
+        width: 212vh;
+        background-color: rgba(0, 0, 0, 0.932);
+        background-position: center;
+        background-size:100%;
+color: white;
+    }
+    .last-k{
+        background-color: rgba(0, 0, 0, 0.548);
+    }
+    
